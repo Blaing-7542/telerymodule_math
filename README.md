@@ -1,1 +1,1 @@
-# telerymodule_math
+# Модуль math для юзербота Telery.
